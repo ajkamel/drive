@@ -103,6 +103,8 @@ Is your platform missing a package? Feel free to prepare / contribute an install
 
 Optionally set the `GOOGLE_API_CLIENT_ID` and `GOOGLE_API_CLIENT_SECRET` environment variables to use your own API keys.
 
+You can get your API [credentials](https://console.developers.google.com).  Create your application and make sure you select installed application.
+
 ## Usage
 
 ### Initializing
